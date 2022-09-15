@@ -176,11 +176,23 @@ servicios estos al controlador y el controlador al mundo
 23:00 - 29:00 - 01:27:00 - 01:32:00 -
 ____________________________________________________________________________________________________________________
 # Video # 22
+1. Explicación de todas las carpetas del proyecto Consultotio
+2. Explicación de consumo de Apis http://localhost:8094/backen03/agencias/todas
+3. Crear funcion para hacer cnsumo de Apias 
+4. Explicacion de una promesa "Son acuerdos entre [FrontEnd] & [BackEnd] que se pueden ejecutar cuando se necesiten"
+5. Promesa const [miPrimeraPromesa=fetch().then();] estructura de una promesa
+6. const [miPrimeraPromesa=fetch(apiListaRol).then();] aca se esta consumiendo el servicio [apiListaRol]
+7. Para manejar objetos con un ciclo for utilizar [for_each]  
+8.  [document.getElementById("tablaRoles").insertRow(-1).innerHTML="<td>"+codigo+"<td>"
+        + "<td>"+nombe+"</td>";] Linea para imprimir en una tabla
+
+# Time 
+20:00 - 39:00 - 01:00:00 - 01:35:00 Voy aqui
+______________________________________________________________________________________________________________________
+# Video # 23
 1. 
 
 # Time 
-20:00 - 
-
 
 
 
